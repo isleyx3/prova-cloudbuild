@@ -2,4 +2,4 @@ FROM ubuntu
 RUN apt update 
 RUN mkdir new
 RUN mkdir teste
-RUN mkdir teste2
+RUN mkdir teste24
